@@ -3,6 +3,7 @@
 // Coloca o encoding para UTF8 para exibir acentuação
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 
+// Pedir para o usuário digitar o preço inicial e o preço por hora
 decimal precoInicial = 0;
 decimal precoPorHora = 0;
 
